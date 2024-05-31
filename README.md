@@ -1,9 +1,9 @@
 # Modeling Hub Schemas
 <!--- Badges --->
-[![JSON Schema Valid](https://github.com/Infectious-Disease-Modeling-Hubs/schemas/actions/workflows/check-json-schema-valid.yaml/badge.svg)](https://github.com/Infectious-Disease-Modeling-Hubs/schemas/actions/workflows/check-json-schema-valid.yaml)
+[![JSON Schema Valid](https://github.com/testorg-original/schemas/actions/workflows/check-json-schema-valid.yaml/badge.svg)](https://github.com/testorg-original/schemas/actions/workflows/check-json-schema-valid.yaml)
 <!--- Badges-end --->
 
-This repository houses JSON schemas for [the Consortium of Infectious Disease Modeling Hubs](https://github.com/Infectious-Disease-Modeling-Hubs). These schemas define the specifications for the configuration files that are required to be present in a modeling hub. Full documentation about modeling hubs can be found at [the Modeling Hub documentation site](https://hubdocs.readthedocs.io/en/latest/), with some [specific documentation about the schema files](https://hubdocs.readthedocs.io/en/latest/user-guide/model-metadata.html).
+This repository houses JSON schemas for [the Consortium of Infectious Disease Modeling Hubs](https://github.com/testorg-original). These schemas define the specifications for the configuration files that are required to be present in a modeling hub. Full documentation about modeling hubs can be found at [the Modeling Hub documentation site](https://hubdocs.readthedocs.io/en/latest/), with some [specific documentation about the schema files](https://hubdocs.readthedocs.io/en/latest/user-guide/model-metadata.html).
 
 # Versioning
 
